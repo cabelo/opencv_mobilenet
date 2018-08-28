@@ -1,0 +1,4 @@
+#Mon Aug 27 21:57:41 BRT 2018
+base.0=/home/cabelo/AndroidStudioProjects/opencv_mobilenet/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
