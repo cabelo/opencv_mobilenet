@@ -5,23 +5,13 @@ Do you need download MobileNet object detection model from  https://github.com/c
 
 Version 8.0
 * Backward compatibility with old Android 
-
-Version 7.0
 * Bug fix - screen overlay detected
-
-Version 6.0
 * Remove OpenCV Manager dependencies
-
-Version 5.0
 * Bug fix
-
-Version 4.0
 * Add request permission hardware
 
 Version 3.0 
 * Bug fix in armeabi processor
-
-Version 2.0
 * Add dependencies links
 
 Version 1.0
